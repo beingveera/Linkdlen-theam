@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="https://github.com/coder-lokesh/Linkdlen-theam">
-    <img src="linkdlen.png" alt="Logo" width="700" height="600">
+    <img src="linkdlen.png" alt="Logo" width="1100" height="600">
   </a>
 
 > [Lokesh Sharma](http://lokesh-resume.web.app/) &nbsp;&middot;&nbsp;
